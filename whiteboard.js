@@ -13,7 +13,7 @@
         canvas.height = 500;
         canvas.width = window.innerWidth;
         //Learn about Canvas
-        /*ctx.strokeStyle = "blue"; //This changes the border or stroke of the stroked Rect canvas
+        /*ctx.strokeStyle = "blue"; //This the border or stroke of the stroked Rect canvas
         ctx.lineWidth = 5;//This changes the width of the strokes in the canvas
         //ctx.fillRect(100, 100, 200, 200);//The 1st two values specify the position absolutely.ie position(hori, vert). The last two values specifies the size ie size(width, height)
         ctx.strokeRect(100, 100, 200, 200);//The values are the same for above. strikeRect only shows the borders of the canvas
